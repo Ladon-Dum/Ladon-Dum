@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Peter, but I prefer call me Ladon
+- 👋 Hi, I’m Peter, but I prefer you call me Ladon
 - I’m interested in Web Development and Game Development
 - I’m currently learning HTML, CSS and Javascript, at the same time, I'm learning C++
 - I’m looking to collaborate on Game Projects
