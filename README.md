@@ -1,11 +1,8 @@
-- 👋 Hi, I’m Peter, but I prefer you call me Ladon
-- I’m interested in Web Development and Game Development
-- I’m currently learning HTML, CSS and Javascript, at the same time, I'm learning C++
-- I’m looking to collaborate on Game Projects
+- 👋 Hi, I’m Ladon
 - 📫 How to reach me: Discord(ladon_dum)
 - Pronouns: He/Him
-- Fun fact: I have over 15 game ideas.... but I can't make a single one of them(yet)
-- My GitHub should have some repositories soon.
+
+*"To learn Tai chi, you must tie your chin"*
 
 <!---
 Ladon-Dum/Ladon-Dum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
